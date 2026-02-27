@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #141414;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="98.99" y="321.78" width="104.32" height="106.22" transform="translate(302.3 749.78) rotate(180)"/>
+  <rect class="cls-1" x="335.87" y="321.78" width="77.13" height="106.22" transform="translate(748.88 749.78) rotate(180)"/>
+  <rect class="cls-1" x="98.99" y="321.78" width="104.32" height="23.73" transform="translate(302.3 667.28) rotate(180)"/>
+  <rect class="cls-1" x="335.87" y="321.78" width="77.13" height="23.73" transform="translate(748.88 667.28) rotate(180)"/>
+  <line class="cls-1" x1="269.59" y1="84" x2="269.59" y2="104.9"/>
+  <rect class="cls-1" x="230.33" y="377.39" width="39.26" height="50.61"/>
+  <rect class="cls-1" x="269.59" y="377.39" width="39.26" height="50.61"/>
+  <rect class="cls-1" x="230.33" y="321.78" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="283.91" y="321.78" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="230.33" y="266.16" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="283.91" y="266.16" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="230.33" y="210.54" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="283.91" y="210.54" width="24.95" height="24.95"/>
+  <rect class="cls-1" x="117.07" y="370.53" width="68.17" height="31.16"/>
+  <rect class="cls-1" x="353.85" y="370.53" width="41.19" height="31.16"/>
+  <rect class="cls-1" x="203.31" y="184.88" width="132.56" height="243.12"/>
+  <rect class="cls-1" x="222.86" y="138.41" width="93.46" height="46.48"/>
+  <rect class="cls-1" x="241.89" y="104.9" width="55.4" height="33.5"/>
+</svg>

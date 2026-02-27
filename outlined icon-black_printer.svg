@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #141414;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M106.19,131.95h299.62c2.76,0,5,2.24,5,5v56.78H101.19v-56.78c0-2.76,2.24-5,5-5Z"/>
+  <path class="cls-1" d="M106.19,300.26h299.62c2.76,0,5,2.24,5,5v74.79H101.19v-74.79c0-2.76,2.24-5,5-5Z" transform="translate(512 680.3) rotate(180)"/>
+  <g>
+    <line class="cls-1" x1="134.44" y1="327.51" x2="377.56" y2="327.51"/>
+    <line class="cls-1" x1="134.44" y1="349.61" x2="251.75" y2="349.61"/>
+  </g>
+  <line class="cls-1" x1="396.58" y1="223.87" x2="428.57" y2="223.87"/>
+  <line class="cls-1" x1="357.36" y1="223.87" x2="379.44" y2="223.87"/>
+  <rect class="cls-1" x="56.4" y="193.73" width="399.19" height="106.53" rx="5" ry="5"/>
+</svg>

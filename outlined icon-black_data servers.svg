@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #141414;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M75.23,104h361.54c2.76,0,5,2.24,5,5v247.31H70.23V109c0-2.76,2.24-5,5-5Z"/>
+  <path class="cls-1" d="M70.23,356.31h371.55v46.68c0,2.76-2.24,5-5,5H75.23c-2.76,0-5-2.24-5-5v-46.68h0Z"/>
+  <rect class="cls-1" x="85.63" y="293.94" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="102.94" y1="324.97" x2="102.94" y2="305.91"/>
+  <line class="cls-1" x1="119.38" y1="324.97" x2="119.38" y2="305.91"/>
+  <circle class="cls-1" cx="217.17" cy="315.44" r="6.83"/>
+  <rect class="cls-1" x="85.63" y="237.09" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="102.94" y1="268.11" x2="102.94" y2="249.06"/>
+  <line class="cls-1" x1="119.38" y1="268.11" x2="119.38" y2="249.06"/>
+  <circle class="cls-1" cx="217.17" cy="258.58" r="6.83"/>
+  <rect class="cls-1" x="85.63" y="180.23" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="102.94" y1="211.26" x2="102.94" y2="192.2"/>
+  <line class="cls-1" x1="119.38" y1="211.26" x2="119.38" y2="192.2"/>
+  <circle class="cls-1" cx="217.17" cy="201.73" r="6.83"/>
+  <rect class="cls-1" x="85.63" y="123.37" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="102.94" y1="154.4" x2="102.94" y2="135.34"/>
+  <line class="cls-1" x1="119.38" y1="154.4" x2="119.38" y2="135.34"/>
+  <circle class="cls-1" cx="217.17" cy="144.87" r="6.83"/>
+  <rect class="cls-1" x="261.37" y="293.94" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="278.67" y1="324.97" x2="278.67" y2="305.91"/>
+  <line class="cls-1" x1="295.12" y1="324.97" x2="295.12" y2="305.91"/>
+  <circle class="cls-1" cx="392.9" cy="315.44" r="6.83"/>
+  <rect class="cls-1" x="261.37" y="237.09" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="278.67" y1="268.11" x2="278.67" y2="249.06"/>
+  <line class="cls-1" x1="295.12" y1="268.11" x2="295.12" y2="249.06"/>
+  <circle class="cls-1" cx="392.9" cy="258.58" r="6.83"/>
+  <rect class="cls-1" x="261.37" y="180.23" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="278.67" y1="211.26" x2="278.67" y2="192.2"/>
+  <line class="cls-1" x1="295.12" y1="211.26" x2="295.12" y2="192.2"/>
+  <circle class="cls-1" cx="392.9" cy="201.73" r="6.83"/>
+  <rect class="cls-1" x="261.37" y="123.37" width="161.12" height="43" rx="3" ry="3"/>
+  <line class="cls-1" x1="278.67" y1="154.4" x2="278.67" y2="135.34"/>
+  <line class="cls-1" x1="295.12" y1="154.4" x2="295.12" y2="135.34"/>
+  <circle class="cls-1" cx="392.9" cy="144.87" r="6.83"/>
+  <circle class="cls-1" cx="407.2" cy="382.16" r="9.26"/>
+</svg>

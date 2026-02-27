@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #141414;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="70.11" y="119.5" width="371.79" height="273"/>
+  <rect class="cls-1" x="94.05" y="185.46" width="323.89" height="181.77"/>
+  <circle class="cls-1" cx="105.19" cy="153.1" r="11.14"/>
+  <circle class="cls-1" cx="147.14" cy="153.1" r="11.14"/>
+  <circle class="cls-1" cx="189.1" cy="153.1" r="11.14"/>
+  <polygon class="cls-1" points="220.67 221.24 217.67 310.04 240.86 288.16 267.48 335.65 293.83 320.88 267.21 273.39 297.98 265.03 220.67 221.24"/>
+</svg>
